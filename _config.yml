@@ -1,0 +1,28 @@
+name: Bond Street Distribution
+favicon: null
+layout_spectrum: 0.32459789304994047
+typography_spectrum: 0.2573445928283036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4547851993702352
+  lightness: 0.13786103553138673
+  saturation: 0.021488600876182318
+  rhythmicContrast: 0.6224356084130704
+purpose: []
