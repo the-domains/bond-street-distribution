@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bond Street Distribution]]></title>
         <description><![CDATA[Bond Street Distribution]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bond-street-distribution/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 02:20:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 02:50:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bond-street-distribution/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a74c609f-5b38-48cd-b191-0ce88a691d54.jpg">]]></description>
-            <link>undefinedbond-street-distribution/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96814654466df1e62ff36419eeb64ac98fd78f23.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/bond-street-distribution/bond-street-distribution/index.html</link>
             <guid isPermaLink="false">0be873bd-ff0a-4db8-a126-462eb10486aa</guid>
-            <pubDate>Fri, 11 Mar 2016 02:18:52 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 02:49:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
